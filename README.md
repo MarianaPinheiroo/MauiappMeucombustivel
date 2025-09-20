@@ -1,4 +1,4 @@
-# MauiappMeucombustivel
+# MauiappMeuCombustivel
 Aplicativo simples e intuitivo para ajudar motoristas a escolher entre etanol e gasolina com base no custo-benefício
 
 # Sobre o projeto
